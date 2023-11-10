@@ -22,15 +22,6 @@ The second project was the development of an Online Examination System. This com
 - Timer implementation for quizzes
 - Handling and processing quiz submissions
 
-## Project 3: Certificate of Completion
-
-### Description
-Upon successful completion of the internship, I received a certificate acknowledging my dedication and accomplishments during the Oasis Infobyte Internship. This serves as a testament to the skills I've acquired and the challenges I've overcome.
-
-### Key Learnings
-- Reflecting on personal and professional growth
-- Acknowledging the importance of dedication and perseverance
-
 ## Acknowledgments
 
 I extend my sincere gratitude to Oasis Infobyte for providing this enriching internship experience. Special thanks to the entire team for their support and guidance throughout these projects. Each task presented unique challenges, contributing to my growth as a developer.
@@ -40,6 +31,4 @@ Feel free to explore the individual project folders for more details and code im
 Thank you for joining me on this journey!
 
 ---
-
-*Note: Customize this `README.md` file according to your specific project structure and details.*
 
